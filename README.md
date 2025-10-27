@@ -31,3 +31,15 @@ This game is a command-line RPG where you move through rooms in a dungeon, fight
 
    ```bash
    php index.php
+   
+## Control Sheet
+| Command |   What it does   |
+|:-------:|:----:|
+| north | Move north if there’s an exit  |
+| south | Move south  |
+| east | Move east  |
+| west | Move west  |
+| save | Save the current game state  |
+| load | Load last saved game  |
+| yes/no | Used when picking up items  |
+	
